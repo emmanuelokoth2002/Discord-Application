@@ -1,8 +1,8 @@
-Discord Developer Community
-Introduction
+**Discord Developer Community**
+**Introduction**
 Welcome to the Discord Developer Community repository! This project aims to facilitate communication and collaboration among developers on Discord by providing a platform where they can connect with others who share similar interests, skills, or goals.
 
-Features
+**Features**
 User Profiles: Developers can create profiles highlighting their skills, interests, and expertise.
 Matching System: The application matches users based on similarities in their profiles, facilitating connections between like-minded developers.
 Messaging: Once matched, developers can communicate with each other via private messages within the application.
@@ -26,5 +26,5 @@ Submit a pull request with a clear description of your changes and the problem t
 Support
 If you encounter any issues or have questions about the Discord Developer Community application, feel free to open an issue on GitHub or reach out to the project maintainers.
 
-License
+**License**
 This project is licensed under the MIT License.
